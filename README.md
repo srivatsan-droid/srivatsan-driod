@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Web Scraping**
 
-- 🌱 I’m currently learning **JavaScript, Data Structures and Algorithms**
+- 🌱 I’m have recently completed learning **Backend using Java, Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [Git Hub](Git Hub)
 
-- 💬 Ask me about **Web Scraping, Java Related Queries**
+- 💬 Ask me about **Web Scraping, Java ,Backend Related Queries**
 
 - 📫 How to reach me **sriram5srivatsan@gmail.com**
 
